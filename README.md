@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - Version Control(Git/it-Flow)
 - SVN
 - Figma, Adobe XD
-- Adobe Photoshop, Adobe Illustrator, Figma.
+- Adobe Photoshop, Adobe Illustrator
 
 ## 💡 Projects
 - [Delta Solar Cloud](https://mydeltasolar.deltaww.com/)
