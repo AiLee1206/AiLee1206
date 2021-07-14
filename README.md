@@ -17,7 +17,7 @@ Hi, I’m Alivio. I am a front end engineer. I also have UI/UX design profession
 - JavaScript, React, Vue
 - jQuery, Bootstrap
 
-### 🔧 Tool
+### 🔧 Tools
 - Version Control(Git/it-Flow)
 - SVN
 - Figma, Adobe XD
