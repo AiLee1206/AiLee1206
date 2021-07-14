@@ -3,7 +3,8 @@ AiLee1206/AiLee1206 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## <img src="https://github.com/AiLee1206/Portfolio/blob/main/images/ACTi_05.jpg" /><img src="https://github.com/AiLee1206/Portfolio/blob/main/images/aiRongMark.jpg" />👋  AiRong Resume
+<img src="https://github.com/AiLee1206/Portfolio/blob/main/images/ACTi_05.jpg" />
+## <img width="50px" src="https://github.com/AiLee1206/Portfolio/blob/main/images/aiRongMark.jpg" />👋  AiRong Resume
 
  Hi, I’m Alivio. I am a front end engineer. I have UI/UX design professional with over 8 years of experience, and I work closely with other colleagues involved in projects, such as create and implement the design. I love new technologies, creative products, collaborate with product innovation and human-centered design. I know how to develop and leads product applications, provide a technical solution to the customer.
 
