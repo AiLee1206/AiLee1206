@@ -11,7 +11,7 @@ Hi, I’m Alivio. I am a front end engineer. I have UI/UX design professional wi
 - I’m looking to collaborate on software, PM team. <br>
 - sharon1206_6@hotmail.com<br>
 
-## ☕That I know and use
+## That I know and use
 ### 📚 Langues and Frameworks
 - HTML, HTML 5 CSS3, SCSS
 - JavaScript, React, Vue
