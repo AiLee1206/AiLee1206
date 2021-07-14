@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 - [EVGA official site] (https://www.evga.com/)
 
 ## 🔗 Get in touch
-- Personal site: https://wicoglb1n8fcz6cvmtjg8w-on.drv.tw/portfolio/
+- Personal site: https://ailee1206.github.io/Portfolio/
