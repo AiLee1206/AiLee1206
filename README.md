@@ -3,7 +3,7 @@ AiLee1206/AiLee1206 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## <img width="50px" src="https://drive.google.com/file/d/1Z79CEm1OKdMX3hffD7JCy1xVbygUY4vp/view?usp=sharing" />Alivio
+## <img width="50px" src="https://github.com/AiLee1206/Portfolio/blob/main/images/aiRong2.jpg" />Alivio
 
 👋 Hi, I’m Alivio. I am a front end engineer. I have UI/UX design professional with over 8 years of experience, and I work closely with other colleagues involved in projects, such as create and implement the design. I love new technologies, creative products, collaborate with product innovation and human-centered design. I know how to develop and leads product applications, provide a technical solution to the customer.
 
@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 - Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## 💡 Projects
-- [Delta](https://mydeltasolar.deltaww.com/)
-- [EVGA](https://www.evga.com/)
+- [Delta Solar Cloud](https://mydeltasolar.deltaww.com/)
+- [EVGA official site](https://www.evga.com/)
 
 ## 🔗 Get in touch
 - Personal site: https://wicoglb1n8fcz6cvmtjg8w-on.drv.tw/portfolio/
