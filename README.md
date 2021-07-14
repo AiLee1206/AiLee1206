@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - Adobe Photoshop, Adobe Illustrator
 
 ## 💡 Projects
-- [Delta Solar Cloud](target="_blank" https://mydeltasolar.deltaww.com/)
+- [Delta Solar Cloud]target="_blank"(https://mydeltasolar.deltaww.com/)
 - [EVGA official site](https://www.evga.com/)
 
 ## 🔗 Get in touch
