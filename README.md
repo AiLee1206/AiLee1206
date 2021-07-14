@@ -9,43 +9,28 @@ AiLee1206/AiLee1206 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## <img width="50px" src="https://drive.google.com/file/d/1Z79CEm1OKdMX3hffD7JCy1xVbygUY4vp/view?usp=sharing" />Clark #ms314006
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
-
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
-
-## 🔭 Goals of 2020
-
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+Hey there 👋,
+I'm Alivio! I am a front end engineer. I have UI/UX design professional with over 8 years of experience, and I work closely with other colleagues involved in projects, such as create and implement the design. I love new technologies, creative products, collaborate with product innovation and human-centered design. I know how to develop and leads product applications, provide a technical solution to the customer.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5
-- CSS3, SCSS, SASS
-- Material-ui, Antd, Bootstrap
-- JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- Vue, Vuex, Vue-Router
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
+- CSS3, SCSS
+- JavaScript
+- React
+- Vue
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
 - Test Driven Developer
 - Open Source Projects
-- Travis-CI
+- Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
+- [Delta](https://mydeltasolar.deltaww.com/)
+- [EVGA](https://www.evga.com/)
 
 ## 🔗 Get in touch
-- Personal site: http://ms314006.github.io/
-- Dev.to: https://dev.to/ms314006
-- StackOverflow: https://stackoverflow.com/users/10421516/clark
-- Medium: https://medium.com/@GQSM
+- Personal site: https://wicoglb1n8fcz6cvmtjg8w-on.drv.tw/portfolio/
