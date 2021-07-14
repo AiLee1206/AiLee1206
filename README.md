@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
+- SVN
+- Figma, Adobe XD
 - Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## 💡 Projects
