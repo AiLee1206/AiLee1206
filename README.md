@@ -1,4 +1,4 @@
-<!---
+...<!---
 AiLee1206/AiLee1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -13,11 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- HTML5
-- CSS3, SCSS
-- JavaScript
-- React
-- Vue
+- HTML, HTML 5 CSS3, SCSS
+- JavaScript, React, Vue
+- jQuery, Bootstrap
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
