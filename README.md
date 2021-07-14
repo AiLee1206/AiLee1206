@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## <img width="50px" src="https://github.com/AiLee1206/Portfolio/blob/main/images/aiRongMark.jpg" /> AiLee 1206
 > I am learning how to be a good front-end ability, keep it.
+
 Hi, I’m Alivio. I am a front end engineer. I also have UI/UX design professional with over 8 years of experience, and I work closely with other colleagues involved in projects, such as create and implement the design. I love new technologies, creative products, collaborate with product innovation and human-centered design. I know how to develop and leads product applications, provide a technical solution to the customer. 💕 
 
 - I’m interested in learning new technoloy and design. <br>
